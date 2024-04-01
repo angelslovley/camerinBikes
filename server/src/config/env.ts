@@ -9,9 +9,9 @@ export const NODE_ENV = process.env.NODE_ENV || 'dev'
 export const PORT = process.env.PORT || 8000
 
 // Database
-export const DB_HOST = process.env.DB_HOST || 'mongodb+srv://nikkyanna07:HzBWj0MFp2RwgTmr@cluster0.dwcjcjs.mongodb.net/biker'
+export const DB_HOST = process.env.DB_HOST || ''
 
 // JWT Secret
-export const JWT_SECRET = process.env.JWT_SECRET || 'biker_secret'
+export const JWT_SECRET = process.env.JWT_SECRET || ''
 
 export const CLIENT_URL = 'http://localhost:3000'
