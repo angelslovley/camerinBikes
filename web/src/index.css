@@ -1,0 +1,28 @@
+:root {
+	--background-color: #fff;
+	--input-background: #e1e1e1;
+	--primary-text: #222;
+	--secondary-text: #b9b9b9;
+	--negative: #da0f0f;
+	--positive: #139730;
+	--available-indicator: #21d704;
+	--bike-color-pink: #e80066;
+	--bike-color-black: #1e1c1a;
+	--bike-color-blue: #017acb;
+	--bike-color-pink: #f2f97e;
+
+	--button-default: #161616;
+	--button-text-default: #FFFFFF;
+
+	--border-radius: 10px;
+}
+
+body, html {
+	margin: 0;
+	width: 100%;
+	font-family: "Poppins", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 62.5%;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}

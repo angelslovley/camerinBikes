@@ -1,0 +1,1 @@
+export const UPDATE_BIKES = 'UPDATE_BIKES'
